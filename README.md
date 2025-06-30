@@ -48,7 +48,7 @@ Implemented a Chatbot (Virtual Assistant) in Python which automates the customer
 ![](/images/rasa_chatbot-screenshot_1.PNG)
 ![](/images/rasa_chatbot-screenshot_2.PNG)
 
-## [Project 3: Creation of an e-commerce website](https://deuspi.fr/)
+## Project 3: Creation of an e-commerce website
 Implemented an e-commerce website allowing the students of the campus of my school in France to provide themselves with food delivered in 15 minutes maximum by offering them a convenience store called “DEUSPI”.
 
 * Front-end : HTML, CSS (Bootstrap) and JavaScript (jQuery)
@@ -95,6 +95,24 @@ Students will learn from diverse sources of information: student-led workshops, 
 	<a href="https://www.linkedin.com/posts/artefact-global_data-ia-datascience-activity-7019723395445477378-Zo8p" rel="DOT partnership with Artefact"><img alt="DOT partnership with Artefact image" width="499px" src="/images/DOT_partnership_with_Artefact.jfif" /></a>
 	<a href="https://www.linkedin.com/pulse/unlocking-power-data-science-how-gaming-companies-transforming-/?trackingId=eiQMjRfFonZVk9K%2BC1rSAg%3D%3D" rel="DOT gaming in Data Science article"><img alt="DOT gaming in Data Science image" width="499px" src="/images/DOT_gaming_in_data_science_article.png" /></a>
 </p>
+
+## [Project 6: Analyzing Arsenal 2003-2004 Invincibles run using Network Science](https://github.com/Zaamine/Analyzing_Arsenal_2003_2004_Invincibles_run_using_Network_Science)
+
+Analyzed Arsenal FC’s unbeaten Premier League season using advanced graph-based techniques to extract tactical and structural insights from match data.
+
+* Built passing networks for each match with players as nodes and passes as weighted edges using StatsBomb’s event data API
+* Computed key graph metrics (degree, betweenness, closeness, eigenvector centrality, PageRank, etc.) to identify key players and their tactical roles
+* Used xG (Expected Goals) modeling and passing flow analysis to highlight game momentum and performance peaks across key matches
+* Trained a Graph Convolutional Network (GCN) to classify match outcomes based on passing network structure, achieving 75% accuracy despite a small dataset
+* Quantified continuity of the starting XI throughout the season using Graph Edit Distance and Node2Vec embeddings with cosine similarity
+
+📄 Paper: *Analyzing Arsenal 2003–2004 Invincibles run using Network Science*  
+🗂 Status: Internal academic project — available on request
+
+![](/images/Arsenal_Invincibles_season-Figure_1_Average_passes_network.jpeg)
+![](/images/Arsenal_Invincibles_season-Figure_3_Henry_heatmap_against_Leeds.jpeg)
+![](/images/Arsenal_Invincibles_season-Figure_4_Participation_of_Pires_in_progressive_passes_against_Liverpool.jpeg)
+![](/images/Arsenal_Invincibles_season-Figure_5_xG_flow_chart_against_Man_City.jpeg)
 
 <br />
 
