@@ -114,7 +114,7 @@ Analyzed Arsenal FC’s unbeaten Premier League season using advanced graph-base
 ![](/images/Arsenal_Invincibles_season-Figure_4_Participation_of_Pires_in_progressive_passes_against_Liverpool.jpeg)
 ![](/images/Arsenal_Invincibles_season-Figure_5_xG_flow_chart_against_Man_City.jpeg)
 
-## [Project 7: Building a Decision-Support Dashboard for FC Barcelona’s Post-Messi Era](https://github.com/Zaamine/FC_Barcelona_Business_Intelligence_Dashboard/blob/main/BI%20final%20project%20presentation.pdf)
+## [Project 7: Building a BI Decision-Support Dashboard for FC Barcelona’s Post-Messi Era](https://github.com/Zaamine/FC_Barcelona_Business_Intelligence_Dashboard/blob/main/BI%20final%20project%20presentation.pdf)
 
 Created a comprehensive and interactive Tableau dashboard using real-life match statistics and FIFA<sup>TM</sup> video game attributes to support FC Barcelona's team management following Messi’s departure.
 
