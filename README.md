@@ -48,7 +48,20 @@ Implemented a Chatbot (Virtual Assistant) in Python which automates the customer
 ![](/images/rasa_chatbot-screenshot_1.PNG)
 ![](/images/rasa_chatbot-screenshot_2.PNG)
 
-## [Project 3: Management of the training division of Centrale AI](https://github.com/Zaamine/Centrale_AI)
+## [Project 3: Creation of an e-commerce website](https://deuspi.fr/)
+Implemented an e-commerce website allowing the students of the campus of my school in France to provide themselves with food delivered in 15 minutes maximum by offering them a convenience store called “DEUSPI”.
+
+* Front-end : HTML, CSS (Bootstrap) and JavaScript (jQuery)
+* Back-end : PHP, jQuery’s Ajax and SQL (MySQL database)
+* Ajax was mainly used to send and load information asynchronously in order to make the user experience as smooth as possible, while never leaving the product catalog page
+* Twilio’s API was used to send a confirmation code to the user during registration, as well as to send additional information about his order
+* Google maps’ “autocomplete” API was used to limit the scope of delivery and verify the user's address at the time of the order
+* Stripe’s API has been used to secure credit card payment directly from our website without having to keep sensitive information about the user
+
+![](/images/deuspi_website-screenshot_1.PNG)
+![](/images/deuspi_website-screenshot_2.PNG)
+
+## [Project 4: Management of the training division of Centrale AI](https://github.com/Zaamine/Centrale_AI)
 Former Training Manager of the “Centrale AI” association (“Centrale IA” in French) constituted in accordance with the French law of 1901 concerning non-profit organizations, allowing students of the Ecole Centrale de Lille to discover the Artificial Intelligence and Data Science's world:
 
 - Established, supervised and presented complete trainings in Data Science, using the Python programming language
@@ -65,7 +78,7 @@ Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centr
 	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="499px" src="/images/affiche_formation_5.png" /></a>
 </p>
 
-## [Project 4: Presidency of the Data Oriented Thinking society (DOT)](https://www.linkedin.com/company/dot-essec-centrale/mycompany)
+## [Project 5: Presidency of the Data Oriented Thinking society (DOT)](https://www.linkedin.com/company/dot-essec-centrale/mycompany)
 The objective of DOT is to democratize Data Science by allowing students from all backgrounds at ESSEC and Centrale-Supélec to gain a thorough understanding of the domain and its different applications. As our world revolves increasingly around data collection, mining, predictions, and interpretations, it is essential for leaders of tomorrow to fully grasp data-oriented thinking. Indeed, outside the context of specific teachings such as the Master in Data Sciences & Business Analytics program in both schools, we have seen that this theme is often viewed as a distant subject and reserved for certain fields of study.
 
 We, therefore, want to democratize the "hard" and "soft" skills that define this discipline to any interested student. This association wants to focus on this mix of know-how in order to apply it to problems that companies, institutions, or non-governmental organizations may encounter.
