@@ -107,7 +107,7 @@ Analyzed Arsenal FC’s unbeaten Premier League season using advanced graph-base
 * Quantified continuity of the starting XI throughout the season using Graph Edit Distance and Node2Vec embeddings with cosine similarity
 
 📄 Paper: *Analyzing Arsenal 2003–2004 Invincibles run using Network Science*  
-🗂 Status: Internal academic project — available in [this]((https://github.com/Zaamine/Analyzing_Arsenal_2003_2004_Invincibles_run_using_Network_Science/blob/main/MLNS_Project-Arsenal_Invincibles_run-ZAAMOUN-CORNELUS_JOUAIDI_ELBIARI.pdf)) link
+🗂 Status: Internal academic project — available in [this](https://github.com/Zaamine/Analyzing_Arsenal_2003_2004_Invincibles_run_using_Network_Science/blob/main/MLNS_Project-Arsenal_Invincibles_run-ZAAMOUN-CORNELUS_JOUAIDI_ELBIARI.pdf) link
 
 ![](/images/Arsenal_Invincibles_season-Figure_1_Average_passes_network.jpeg)
 ![](/images/Arsenal_Invincibles_season-Figure_3_Henry_heatmap_against_Leeds.jpeg)
