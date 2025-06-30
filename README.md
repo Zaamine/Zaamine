@@ -114,6 +114,22 @@ Analyzed Arsenal FC’s unbeaten Premier League season using advanced graph-base
 ![](/images/Arsenal_Invincibles_season-Figure_4_Participation_of_Pires_in_progressive_passes_against_Liverpool.jpeg)
 ![](/images/Arsenal_Invincibles_season-Figure_5_xG_flow_chart_against_Man_City.jpeg)
 
+## [Project 7: Building a Decision-Support Dashboard for FC Barcelona’s Post-Messi Era](https://github.com/Zaamine/FC_Barcelona_Business_Intelligence_Dashboard/blob/main/BI%20final%20project%20presentation.pdf)
+
+Created a comprehensive and interactive Tableau dashboard using real-life match statistics and FIFA<sup>TM</sup> video game attributes to support FC Barcelona's team management following Messi’s departure.
+
+* Combined five seasons of match event data (StatsBomb) with FIFA<sup>TM</sup> in-game player statistics to analyze player evolution, form, and suitability for future roles
+* Built data pipelines in Python for extraction, cleaning, merging, and enhancement of datasets, transforming raw stats into actionable features
+* Modeled the data using both a conceptual ER schema and a logical snowflake schema, enabling dynamic linking of player, club, season, and match statistics
+* Designed visualizations for performance tracking, radar-based skill comparison, and strategic planning: player renewal/sale decisions, match strategy, and talent identification
+* Delivered four key insights through a dashboard story format in Tableau, including Messi’s impact, aging squad concerns, renewal/sale decisions, and internal youth talent recommendations
+
+📊 Tools used: Python, pandas, Tableau, StatsBomb API, FIFA<sup>TM</sup> video game datasets
+📁 Project report available in [this](https://github.com/Zaamine/FC_Barcelona_Business_Intelligence_Dashboard/blob/main/BI%20final%20project%20presentation.pdf) link -  dashboard available upon request
+
+![](/images/FC_Barcelona_Business_Intelligence_Dashboard-screenshot_1.png)
+![](/images/FC_Barcelona_Business_Intelligence_Dashboard-screenshot_2.png)
+
 <br />
 
 # Languages and Tools:
