@@ -1,10 +1,10 @@
 # Hello everyone, I'm Amine Zaamoun
 
-### President of the [Data Oriented Thinking society](https://www.linkedin.com/company/dot-essec-centrale/mycompany) (DOT) of ESSEC & CentraleSupélec in the Master of Data Sciences & Business Analytics | Centrale Lille accredited Engineer
+### BI Engineer @Amazon | CentraleSupélec & ESSEC Master in Data Sciences & Business Analytics | Centrale Lille accredited Engineer
 
-- I'm a highly motivated, dynamic, and ambitious accredited Engineer from Centrale Lille and postgraduate Data Science & Business Analytics student at CentraleSupélec and ESSEC with more than 1.5 years of experience in internship and apprenticeship as a Data Scientist (Deutsche Telekom and Crédit Agricole Consumer Finance). I am currently a Business Intelligence Engineer intern at Amazon in the Paris office.
+- I'm a highly motivated, dynamic, and ambitious accredited Engineer from Centrale Lille and the Data Science & Business Analytics Master at CentraleSupélec and ESSEC with more than 1.5 years of experience in internship and apprenticeship as a Data Scientist (Deutsche Telekom and Crédit Agricole Consumer Finance). I am currently a Business Intelligence Engineer at Amazon in the Paris office since 2 years.
 - My LinkedIn: [https://linkedin.com/in/amine-zaamoun][linkedin]
-- The Data Science society at CentraleSupélec and ESSEC I chair this year: https://www.linkedin.com/company/dot-essec-centrale/mycompany
+- The Data Science society at CentraleSupélec and ESSEC I chaired during my time in the Data Science & Business Analytics Master this year: https://www.linkedin.com/company/dot-essec-centrale/mycompany
 - The Data Science articles I wrote on Medium, republished on the [Towards Data Science](https://towardsdatascience.com/)'s platform, a reference in this field: https://amine-zaamoun.medium.com/
 - The article I wrote on DataScientest.com (in French), giving an overwiew of the top 10 important mathematical notions to get started in Data Science: https://datascientest.com/top-10-des-pre-requis-mathematiques-importants-en-data-science
 
