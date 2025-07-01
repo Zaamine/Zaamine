@@ -124,7 +124,7 @@ Created a comprehensive and interactive Tableau dashboard using real-life match 
 * Designed visualizations for performance tracking, radar-based skill comparison, and strategic planning: player renewal/sale decisions, match strategy, and talent identification
 * Delivered four key insights through a dashboard story format in Tableau, including Messi’s impact, aging squad concerns, renewal/sale decisions, and internal youth talent recommendations
 
-📊 Tools used: Python, pandas, Tableau, StatsBomb API, FIFA<sup>TM</sup> video game datasets
+📊 Tools used: Python, pandas, Tableau, StatsBomb API, FIFA<sup>TM</sup> video game datasets \
 📁 Project presentation available in [this](https://github.com/Zaamine/FC_Barcelona_Business_Intelligence_Dashboard/blob/main/BI%20final%20project%20presentation.pdf) link -  dashboard available upon request
 
 ![](/images/FC_Barcelona_Business_Intelligence_Dashboard-screenshot_1.png)
