@@ -1,12 +1,11 @@
 # Hello everyone, I'm Amine Zaamoun
 
-### BI Engineer @Amazon | CentraleSupélec & ESSEC Master in Data Sciences & Business Analytics | Centrale Lille accredited Engineer
+### Data & AI @Amazon | ML, GenAI & AWS | CentraleSupélec & ESSEC Master in Data Sciences & Business Analytics | Centrale Lille accredited Engineer
 
-- I'm a highly motivated, dynamic, and ambitious accredited Engineer from Centrale Lille and the Data Science & Business Analytics Master at CentraleSupélec and ESSEC with more than 1.5 years of experience in internship and apprenticeship as a Data Scientist (Deutsche Telekom and Crédit Agricole Consumer Finance). I am currently a Business Intelligence Engineer at Amazon in the Paris office since almost 3 years.
-- My LinkedIn: [https://linkedin.com/in/amine-zaamoun][linkedin]
-- The Data Science society at CentraleSupélec and ESSEC I chaired during my time in the Data Science & Business Analytics Master this year: https://www.linkedin.com/company/dot-essec-centrale/mycompany
-- The Data Science articles I wrote on Medium, republished on the [Towards Data Science](https://towardsdatascience.com/)'s platform, a reference in this field: https://amine-zaamoun.medium.com/
-- The article I wrote on DataScientest.com (in French), giving an overwiew of the top 10 important mathematical notions to get started in Data Science: https://datascientest.com/top-10-des-pre-requis-mathematiques-importants-en-data-science
+Data & AI professional with 4+ years of hands-on experience across production ML, GenAI and Cloud (AWS) data products, plus entrepreneurial experience as a startup co-founder; currently Business Intelligence Engineer II at Amazon.
+
+Delivered end-to-end solutions across telecom, banking, retail, logistics and transportation, combining modeling & engineering, technical ownership, stakeholder engagement, mentoring and measurable business impact.
+
 
 <br />
 
