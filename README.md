@@ -6,7 +6,6 @@ Data & AI professional with 4+ years of hands-on experience across production ML
 
 Delivered end-to-end solutions across telecom, banking, retail, logistics and transportation, combining modeling & engineering, technical ownership, stakeholder engagement, mentoring and measurable business impact.
 
-
 <br />
 
 # Projects and publications:
