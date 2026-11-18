@@ -117,7 +117,7 @@ Implemented an e-commerce website allowing the students of the campus of my scho
 ![](/images/deuspi_website-screenshot_1.PNG)
 ![](/images/deuspi_website-screenshot_2.PNG)
 
-### [Presidency of the Data Oriented Thinking society (DOT)](https://www.linkedin.com/company/dot-essec-centrale/mycompany)
+### [Presidency of the Data Oriented Thinking society (DOT)](https://www.linkedin.com/company/dot-essec-centrale/posts/?feedView=images)
 The objective of DOT is to democratize Data Science by allowing students from all backgrounds at ESSEC and Centrale-Supélec to gain a thorough understanding of the domain and its different applications. As our world revolves increasingly around data collection, mining, predictions, and interpretations, it is essential for leaders of tomorrow to fully grasp data-oriented thinking. Indeed, outside the context of specific teachings such as the Master in Data Sciences & Business Analytics program in both schools, we have seen that this theme is often viewed as a distant subject and reserved for certain fields of study.
 
 We, therefore, want to democratize the "hard" and "soft" skills that define this discipline to any interested student. This association wants to focus on this mix of know-how in order to apply it to problems that companies, institutions, or non-governmental organizations may encounter.
