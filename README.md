@@ -6,8 +6,6 @@ Data & AI professional with 5+ years of experience delivering end-to-end ML, Gen
 
 Combining an Engineering & Business background, I work closely with business stakeholders and clients to identify operational challenges, co-design and deploy practical Data & AI solutions, and drive measurable impact through improved decision-making, operational efficiency and cost savings.
 
-<br />
-
 # Projects and publications:
 
 ## Featured Project
@@ -151,8 +149,6 @@ Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centr
 	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/2.Les_bases_2-Pandas/Pandas_librairie_analyse_donnees.ipynb" rel="formation numéro 2 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="499px" src="/images/affiche_formation_2.jpg" /></a>
 	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="499px" src="/images/affiche_formation_5.png" /></a>
 </p>
-
-<br />
 
 # Languages and Tools:
 
