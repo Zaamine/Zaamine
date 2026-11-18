@@ -12,7 +12,7 @@ Combining an Engineering & Business background, I work closely with business sta
 
 ## Featured Project
 
-### [Production-Ready Retail Demand Forecasting Platform on AWS](https://github.com/Zaamine/retail-demand-forecasting-platform-aws)
+### [Production-Grade Retail Demand Forecasting & AI Planning Platform on AWS](https://github.com/Zaamine/retail-demand-forecasting-platform-aws)
 
 Built an end-to-end retail forecasting and AI-powered decision-support platform, simulating a Data Science consulting engagement from business requirements to AWS deployment and planner adoption.
 
