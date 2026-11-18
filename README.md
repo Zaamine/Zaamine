@@ -1,6 +1,6 @@
 # Hello everyone, I'm Amine Zaamoun
 
-### Data & AI @Amazon | ML, GenAI & AWS | CentraleSupélec x ESSEC Master in Data Sciences & Business Analytics | Centrale Lille Engineer
+### Data & AI @Amazon | Applied ML, GenAI & AWS | CentraleSupélec x ESSEC Master in Data Sciences & Business Analytics | Centrale Lille Engineer
 
 Data & AI professional with 5+ years of experience delivering end-to-end ML, GenAI and Cloud solutions across telecom, banking, B2B marketing analytics, retail, Amazon logistics and transportation operations. Currently working as a Business Intelligence Engineer II – Applied AI at Amazon, with previous experience in client-facing Data Science consulting and as a startup co-founder.
 
